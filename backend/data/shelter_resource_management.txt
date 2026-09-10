@@ -1,0 +1,24 @@
+TITLE: Shelter and Resource Management Guidelines
+
+Once people are safely evacuated, sustaining them until normal services resume becomes the priority.
+
+Shelter setup:
+- Select shelter locations outside the hazard zone with access to sanitation, water, and if possible independent power.
+- Separate areas for general population, medical triage, and vulnerable groups (families with infants, elderly, disabled individuals) improve both care quality and calm.
+- Establish an intake/registration process to track who is present and their needs.
+
+Water, food, and sanitation:
+- Clean drinking water is the highest-priority resource in the first 24 hours; contaminated water sources should be clearly marked and avoided.
+- Ration food and water distribution to ensure supplies last until resupply, prioritizing children, elderly, and medically vulnerable individuals.
+- Set up basic sanitation (latrines, waste disposal) quickly to prevent disease outbreak in crowded shelter conditions.
+
+Medical and psychological support:
+- Maintain a staffed or volunteer-run first-aid point within the shelter for ongoing and new medical needs.
+- Disaster situations cause significant psychological stress; calm, clear communication and basic psychological first aid (listening, reassurance, connecting people with loved ones) reduce panic.
+
+Coordination:
+- Maintain communication with external emergency management for resupply, medical evacuation, and updates on when it's safe to return home.
+- Track resource levels (water, food, medical supplies, fuel) and flag shortages early rather than after they run out.
+- Volunteers and unaffected community members can be organized into task teams (distribution, registration, childcare) to extend limited professional staff.
+
+Source: General shelter-operations best practices, condensed for decision-support purposes.

@@ -1,0 +1,25 @@
+TITLE: Earthquake Response Guidelines
+
+Earthquakes cause structural collapse, secondary fires, and trapped or injured people. Aftershocks are common and can cause further collapse of already-weakened structures.
+
+Immediate priorities:
+- Assume all structures near the epicenter may be structurally compromised; discourage re-entry into damaged buildings until inspected.
+- Identify trapped or injured people through visual and verbal checks in accessible collapsed areas; do not send untrained personnel into unstable rubble.
+- Watch for secondary hazards: gas leaks, downed power lines, ruptured water mains, and aftershocks.
+- Establish a safe assembly point in open ground away from buildings, trees, and power lines.
+
+Medical considerations:
+- Crush injuries, fractures, lacerations, and head trauma are the most common injuries from structural collapse.
+- Crush syndrome (from prolonged limb compression) can cause life-threatening complications once pressure is released; extraction should be coordinated with medical personnel when possible.
+- Triage should prioritize suspected spinal or head injuries, uncontrolled bleeding, and people trapped for extended periods.
+
+Search and rescue:
+- Light search and rescue can be performed by trained bystanders using a "shout, listen, tap" method around rubble.
+- Heavy rescue requiring lifting equipment should be left to specialized teams to avoid further collapse.
+
+Shelter and resources:
+- Displaced residents should be moved to open-air or reinforced shelter locations, not damaged buildings.
+- Stockpile water, food, blankets, and lighting since utilities are frequently disrupted for days.
+- Coordinate structural engineers or safety inspectors before allowing re-entry to assess buildings.
+
+Source: General earthquake-response best practices, condensed for decision-support purposes.

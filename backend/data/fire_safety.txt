@@ -1,0 +1,28 @@
+TITLE: Fire Emergency Response Guidelines
+
+Structural and wildland fires spread quickly and create smoke inhalation risk well beyond the visible flame front.
+
+Immediate priorities:
+- Evacuate the immediate area and any structures in the fire's projected path before addressing anything else.
+- Move people away from smoke plumes; smoke inhalation is often more dangerous than the flames themselves.
+- Establish a perimeter and upwind assembly point so responders and evacuees are not exposed to shifting smoke.
+- Do not allow re-entry into a burning or smoke-filled structure to retrieve belongings.
+
+Medical considerations:
+- Smoke inhalation, burns, and carbon monoxide exposure are the primary medical concerns.
+- Triage should prioritize airway compromise, burns covering large body surface areas, and unconsciousness.
+- People with asthma or respiratory conditions are at significantly elevated risk from smoke exposure.
+
+Firefighting and containment:
+- Untrained bystanders should not attempt interior firefighting; exterior containment (removing fuel, creating breaks) may be appropriate only if safe and trained.
+- Wildland fires require monitoring of wind direction and speed, since these determine spread rate and evacuation urgency.
+
+Evacuation and shelter:
+- Evacuation routes should be chosen perpendicular to wind direction and away from the fire's path, not simply "away from the flames" which can lead into the smoke plume.
+- Shelters should be located well outside the projected fire perimeter and have independent water/power where possible.
+
+Resource management:
+- Prioritize respiratory support (masks, oxygen if available), burn care supplies, and clean water.
+- Coordinate with fire services for containment status updates before adjusting evacuation zones.
+
+Source: General fire-response best practices, condensed for decision-support purposes.

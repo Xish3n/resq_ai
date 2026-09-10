@@ -1,0 +1,22 @@
+TITLE: Emergency Medical Triage Priorities
+
+Mass-casualty and disaster settings require rapid sorting of patients by urgency rather than treating people in the order encountered.
+
+Triage categories (commonly used simplified scheme):
+- IMMEDIATE (red): Life-threatening but survivable conditions requiring intervention within minutes - airway obstruction, uncontrolled severe bleeding, shock, major burns with airway involvement.
+- DELAYED (yellow): Serious but stable injuries that can wait a short period - fractures, moderate burns, deep lacerations without severe bleeding.
+- MINOR (green): Walking wounded with minor injuries who can wait for care - small cuts, bruises, minor sprains.
+- EXPECTANT/DECEASED (black): Injuries incompatible with survival given available resources; care is reprioritized to maximize survivors.
+
+Field priorities:
+- Airway, breathing, and circulation ("ABCs") are assessed first for every patient.
+- Uncontrolled bleeding should be addressed immediately with direct pressure or tourniquet before other interventions.
+- Patients showing signs of shock (pale, clammy skin, rapid weak pulse, confusion) need urgent attention even without visible injury.
+- Reassess patients periodically since conditions can deteriorate or improve.
+
+Resource allocation:
+- When medical personnel or supplies are limited, focus first on patients who can be saved with available resources rather than those requiring resources that are not on hand.
+- Communicate patient counts and severity to incoming medical teams as early as possible so they can prepare appropriate supplies and staffing.
+- Vulnerable groups (infants, elderly, pregnant individuals, chronic illness) should be flagged for closer monitoring even if initially triaged as delayed or minor.
+
+Source: General mass-casualty triage best practices (START-style triage), condensed for decision-support purposes.

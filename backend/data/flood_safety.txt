@@ -1,0 +1,26 @@
+TITLE: Flood Safety and Response Guidelines
+
+Flooding is one of the most common and destructive natural hazards. When heavy flooding affects an area, responders should prioritize life safety over property.
+
+Immediate priorities:
+- Move stranded people to higher ground or stable elevated structures before water levels rise further.
+- Treat any moving water above knee height as dangerous; six inches of fast-moving water can knock an adult off their feet.
+- Never attempt to drive or walk through flood water of unknown depth; vehicles can be swept away in as little as two feet of moving water.
+- Assume flood water is contaminated with sewage, chemicals, or debris; avoid direct contact and provide clean water where possible.
+- Cut electrical power to affected buildings if it is safe to do so, since submerged electrical systems create electrocution risk.
+
+Medical considerations:
+- Waterborne illness, hypothermia, and injuries from debris are the most common medical issues after flooding.
+- Triage should prioritize people with breathing difficulty, suspected drowning/near-drowning, hypothermia, and open wounds exposed to contaminated water.
+- People with chronic conditions (diabetes, dialysis, respiratory illness) are at elevated risk if medication or equipment access is disrupted.
+
+Evacuation and shelter:
+- Establish evacuation routes away from waterways and low-lying areas, and toward pre-identified shelters on high ground.
+- Boats and high-clearance vehicles may be required once road-level flooding exceeds passable depth.
+- Shelters should provide dry bedding, clean water, sanitation, and separate space for medical triage.
+
+Resource management:
+- Prioritize clean drinking water, food, blankets, and first-aid supplies for the first 24-48 hours.
+- Coordinate with local emergency management and utility providers for pump-out and structural safety assessment before allowing re-entry.
+
+Source: General flood-response best practices (FEMA/Red Cross style guidance), condensed for decision-support purposes.

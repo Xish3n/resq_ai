@@ -1,0 +1,25 @@
+TITLE: General Evacuation Procedures
+
+Effective evacuation depends on clear routes, prioritized movement order, and accountability for who has left the area.
+
+Planning priorities:
+- Identify the hazard's direction of spread (water flow, fire front, structural collapse zone) before choosing an evacuation route.
+- Choose routes that move people away from the hazard without crossing through it; the shortest route is not always the safest one.
+- Designate a primary and a backup route in case the primary becomes blocked.
+
+Order of movement:
+- Prioritize people who cannot self-evacuate: those with mobility limitations, injuries, young children, and elderly residents.
+- Medical cases requiring stabilization should be evacuated with trained personnel accompanying them when possible.
+- Able-bodied individuals can often assist with guiding groups or carrying supplies, freeing responders for higher-need cases.
+
+Accountability and communication:
+- Maintain a headcount or registration point at the assembly area to confirm who has evacuated safely.
+- Use clear, simple, repeated messaging about the evacuation route and destination; avoid technical jargon that could cause confusion or panic.
+- Designate a single point of contact for updates to avoid conflicting instructions.
+
+Shelter arrival:
+- On arrival, separate people needing medical triage from the general population.
+- Provide clear signage or verbal direction for water, sanitation, and rest areas.
+- Track vulnerable individuals (unaccompanied minors, elderly, disabled) for follow-up support.
+
+Source: General evacuation-management best practices, condensed for decision-support purposes.

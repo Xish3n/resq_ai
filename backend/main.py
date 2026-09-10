@@ -1,13 +1,11 @@
 """ResQ-AI FastAPI backend entry point."""
 
 import os
-
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
-from orchestrator import run_pipeline
 from services.llm_service import is_live_mode
 
 load_dotenv()
@@ -20,13 +18,13 @@ app = FastAPI(
 
 allowed_origins = [
     o.strip()
-    for o in os.getenv("ALLOWED_ORIGINS", "http://localhost:5173").split(",")
+    for o in os.getenv("ALLOWED_ORIGINS", "http://localhost:5173,*").split(",")
     if o.strip()
 ]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=allowed_origins,
+    allow_origins=allowed_origins if "*" not in allowed_origins else ["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -65,8 +63,10 @@ EXAMPLE_SCENARIOS = {
 }
 
 
+@app.get("/")
 @app.get("/api/health")
 def health_check():
+    """Lightweight root health check for Render port pinging."""
     return {
         "status": "ok",
         "llm_mode": "live" if is_live_mode() else "demo",
@@ -81,6 +81,8 @@ def get_scenarios():
 @app.post("/api/analyze")
 def analyze_emergency(payload: AnalyzeRequest):
     try:
+        # Lazy import orchestrator only when an analysis request is made
+        from orchestrator import run_pipeline
         result = run_pipeline(payload.description)
         return result
     except Exception as exc:
@@ -90,4 +92,5 @@ def analyze_emergency(payload: AnalyzeRequest):
 if __name__ == "__main__":
     import uvicorn
 
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+    port = int(os.getenv("PORT", 10000))
+    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=False)
